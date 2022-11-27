@@ -6,6 +6,6 @@ This is Ivan Hanloth,who loves to work blindly, photography and code
 - 🤔 I’m looking for help with learning
 - 📫 How to reach me: Throw email or QQ and twitter(Rarely online)
 
-![IvanHanloth's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IvanHanloth&show_icons=true&theme=dark#gh-dark-mode-only)
-![IvanHanloth's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IvanHanloth&show_icons=true&theme=default#gh-light-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanHanloth&layout=compact)
+[![IvanHanloth's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=IvanHanloth&show_icons=true&theme=dark#gh-dark-mode-only)]
+[![IvanHanloth's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=IvanHanloth&show_icons=true&theme=default#gh-light-mode-only)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IvanHanloth&layout=compact)]
