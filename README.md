@@ -1,5 +1,5 @@
 Hi！Nice to meet you .
-This is Ivan Hanloth,who loves to work blindly, photography and code
+This is Ivan Hanloth,who loves photography and coding
 - 🔭 I’m currently working on college entrance examination
 - 🌱 I’m currently learning vue.js
 - 👯 I’m looking to collaborate on almost all part! Including games and coding
