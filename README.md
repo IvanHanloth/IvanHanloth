@@ -1,9 +1,9 @@
 Hi！Nice to meet you .
 This is Ivan Hanloth,who loves photography and coding
-- 🔭 I’m currently working on college entrance examination
-- 🌱 I’m currently learning vue.js
+- 🔭 I’m currently working on a commercial scriper application and my own introduction page on hanloth.cn
+- 🌱 I’m currently learning vue.js and also C
 - 👯 I’m looking to collaborate on almost all part! Including games and coding
-- 🤔 I’m looking for help with learning
+- 🤔 I’m looking for help with learning mathmatic
 - 📫 How to reach me: Throw email or QQ and twitter(Rarely online)
 
 
