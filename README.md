@@ -8,8 +8,7 @@ This is IvanHanloth, a dreamer who love coding, photography and a big fan of Col
 - 🤔 I’m seeking for someone to help me with my bad mathematic.
 - 📫 How to reach me: Throw email, QQ, Blog, or X.
 
-
-[![IvanHanloth's GitHub stats-Dark](https://github-stats-extended.vercel.app/api?username=IvanHanloth&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![IvanHanloth's GitHub stats-Light](https://github-stats-extended.vercel.app/api?username=IvanHanloth&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=IvanHanloth&layout=compact&theme=dark&hide_border=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=IvanHanloth&layout=compact&theme=buefy&hide_border=true#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IvanHanloth&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github-stats-extended.vercel.app/api?username=IvanHanloth&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=dark#gh-dark-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=IvanHanloth&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue#gh-light-mode-only)](https://github-stats-extended.vercel.app/api?username=IvanHanloth&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=vue#gh-light-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IvanHanloth&layout=compact&langs_count=10&theme=dark#gh-dark-mode-only)](https://github-stats-extended.vercel.app/api/top-langs?username=IvanHanloth&layout=compact&langs_count=8&theme=vue#gh-dark-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=IvanHanloth&layout=compact&langs_count=10&theme=vue#gh-light-mode-only)](https://github-stats-extended.vercel.app/api/top-langs?username=IvanHanloth&layout=compact&langs_count=8&theme=vue#gh-light-mode-only)
